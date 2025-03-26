@@ -5,21 +5,24 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+# Check commit
 
-* System dependencies
+- Ruby version
 
-* Configuration
+- System dependencies
 
-* Database creation
+- Configuration
 
-* Database initialization
+- Database creation
 
-* How to run the test suite
+- Database initialization
 
-* Services (job queues, cache servers, search engines, etc.)
+- How to run the test suite
 
-* Deployment instructions
+- Services (job queues, cache servers, search engines, etc.)
 
-* ...
+- Deployment instructions
+
+- ...
+
 # rails_react_recipe
